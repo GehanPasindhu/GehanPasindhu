@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GehanPasindhu
+👋 Hi, I’m @GehanPasindhu
 
 
 <!---
