@@ -1,11 +1,11 @@
-👋 Hi, I’m @GehanPasindhu
+Hi 👋, I’m Gehan Pasindhu
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GehanPasindhu&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=GehanPasindhu&no-frame=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehanPasindhu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GehanPasindhu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
-
+![github_stats](https://github-readme-stats.vercel.app/api/?username=GehanPasindhu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GehanPasindhu&layout=compact) 
 <!---
 GehanPasindhu/GehanPasindhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
