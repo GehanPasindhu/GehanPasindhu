@@ -1,18 +1,7 @@
 Hi 👋, I’m Gehan Pasindhu
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=GehanPasindhu&no-frame=true&margin-w=5&no-bg=true&theme=alduin)
-
-<hr/>
-
-<div>
-
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehanPasindhu&count_private=true);
- 
-  
-  <a target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GehanPasindhu&amp&count-private;layout=compact" style="max-width:100%;">
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehanPasindhu&count_private=true);
 
 <!---
 GehanPasindhu/GehanPasindhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
