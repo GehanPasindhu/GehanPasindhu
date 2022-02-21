@@ -6,7 +6,7 @@ Hi 👋, I’m Gehan Pasindhu
 
 <div>
   <a target="_blank" rel="noopener noreferrer">
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=GehanPasindhu&amp;count_private=true&amp;include_all_commits=true" style="max-width:100%;">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehanPasindhu&count_private=true)
   </a>
   
   <a target="_blank" rel="noopener noreferrer">
