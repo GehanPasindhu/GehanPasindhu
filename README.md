@@ -5,9 +5,9 @@ Hi 👋, I’m Gehan Pasindhu
 <hr/>
 
 <div>
-  <a target="_blank" rel="noopener noreferrer">
+
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GehanPasindhu&count_private=true)
-  </a>
+ 
   
   <a target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GehanPasindhu&amp&count-private;layout=compact" style="max-width:100%;">
