@@ -10,7 +10,7 @@ Hi 👋, I’m Gehan Pasindhu
   </a>
   
   <a target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GehanPasindhu&amp&count-private=true;layout=compact" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GehanPasindhu&amp&count-private;layout=compact" style="max-width:100%;">
   </a>
 </div>
 
