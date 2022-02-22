@@ -8,5 +8,4 @@ Hi 👋, I’m Gehan Pasindhu
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GehanPasindhu?cardType=level-alternate)](https://git.io/awesome-stats-card)
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gehanpasindhu&" alt="gehanpasindhu" /></p>
