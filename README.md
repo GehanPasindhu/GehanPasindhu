@@ -7,5 +7,3 @@ Hi 👋, I’m Gehan Pasindhu
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gehanpasindhu&show_icons=true&locale=en&layout=compact" alt="gehanpasindhu" /></p>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GehanPasindhu?cardType=level-alternate)](https://git.io/awesome-stats-card)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gehanpasindhu&" alt="gehanpasindhu" /></p>
