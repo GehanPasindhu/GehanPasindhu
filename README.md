@@ -1,6 +1,6 @@
 # Gehan Pasindhu
 
-## Freelancer | Software Engineer | Digital Marketer
+## Freelancer | Software Engineer | Data Scientist 
 
 Welcome to my GitHub space! I'm Gehan, an inventive and innovative software engineer with a knack for analytical and logical problem-solving. My journey in tech has been marked by a relentless pursuit of excellence, punctuality, and a strong work ethic. I thrive under pressure, excel in teamwork, and embrace challenges with a positive mindset.
 
