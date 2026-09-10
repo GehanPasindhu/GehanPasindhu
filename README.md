@@ -41,8 +41,6 @@ Official companion app for the Ceylon Pickleball League. Live scores, team stand
 ---
 
 ### 📫 Connect
-
-- 🌐 [gehanjay.com](https://gehanjay.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gehanpasindhu/)
 
 Let's connect and build something great together!
