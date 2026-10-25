@@ -1,33 +1,40 @@
-# Gehan Pasindhu
+# Hi, I'm Gehan Pasindhu 👋
 
-## Senior Software Engineer | Full-Stack Developer | Data Scientist
+## Senior Software Engineer & Tech Lead | Full-Stack Developer | Data Scientist
 
-Senior Software Engineer & Tech Lead at **Eventistry** (87.agency), and Co-Founder of **Izocele**. I build full-stack web and mobile products end-to-end — from architecture and UI/UX to deployment — with a data-driven approach to solving real business problems.
+Senior Software Engineer & Tech Lead at **[Eventistry](https://eventistry.agency)** (digital innovation division: 87.agency), and Co-Founder of **Izocele**. Based in Sri Lanka 🇱🇰
 
-Holder of a Master's degree in Data Science (Cardiff Metropolitan University) and a BEng in Computer Software Engineering (IIC University of Technology). I specialize in turning raw data into actionable insights, and in shipping polished, production-grade apps solo.
+I build full-stack web and mobile products — event-driven platforms, live sports broadcast tooling, analytics dashboards and branded client apps — and I lead Agile delivery and mentor junior developers along the way.
+
+🎓 MSc Data Science (Merit) — Cardiff Metropolitan University, UK · BEng Software Engineering — IIC University of Technology
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React.js · React Native · JavaScript/TypeScript
-**Backend:** Node.js · PHP
-**Databases:** MongoDB · PostgreSQL
-**Data Science:** Python · SQL · Data Visualization (Infogram)
-**Other:** Agile/Scrum delivery, mobile app publishing (App Store & Google Play)
+- **Frontend:** React.js · Next.js · React Native · Astro · TypeScript/JavaScript · WordPress
+- **Backend:** Node.js · NestJS · Express · PHP
+- **Databases:** MongoDB · PostgreSQL · MariaDB · Firebase
+- **Cloud & DevOps:** AWS · Docker · Git
+- **Data Science:** Python · SQL · TensorFlow · PyTorch · Data Visualization
+- **Ways of working:** Agile/Scrum (Scrum Master), mobile app publishing (App Store & Google Play)
 
 ---
 
-### 📱 Independent Apps
+### 🚀 Featured Work
 
-I independently design, build, and publish mobile apps end-to-end — from live data architecture to App Store/Play Store release and ongoing maintenance.
+**📊 [KSN Intelligence](https://intel.ksnlive.com)**\
+Multi-sport analytics platform for Key Sports Network, covering leagues where KSN holds broadcast rights — launched with NextXV rugby, with more sports on the way.
 
-**🎾 SLPL — Sri Lanka Padel League**
-Official companion app for Sri Lanka's first franchise padel league. Live match scoring, standings, polls, and push notifications.
+**📡 Live Broadcast Automation**\
+Real-time broadcast graphics and data pipelines for KSN — auction lineups, live auction updates and live scoring for padel leagues, CPL and the NextXV rugby tournament.
+
+**🎾 SLPL — Sri Lanka Padel League** *(Eventistry team)*\
+Official companion app for Sri Lanka's first franchise padel league. Live match scoring, standings, polls and push notifications.\
 📲 [App Store](https://apps.apple.com/lk/app/slpl/id6759237550) · [Google Play](https://play.google.com/store/apps/details?id=com.eventistry.slpl)
 
-**🥒 CPL — Ceylon Pickle League**
-Official companion app for the Ceylon Pickleball League. Live scores, team standings, playoff brackets, and fan polls.
+**🥒 CPL — Ceylon Pickle League** *(Eventistry team)*\
+Official companion app for the Ceylon Pickleball League. Live scores, team standings, playoff brackets and fan polls.\
 📲 [App Store](https://apps.apple.com/lk/app/ceylon-pickle-league/id6802245070) · [Google Play](https://play.google.com/store/apps/details?id=com.ceylonpickleleague.cpl)
 
 ---
@@ -36,11 +43,15 @@ Official companion app for the Ceylon Pickleball League. Live scores, team stand
 
 - **Senior Software Engineer & Tech Lead** — Eventistry / 87.agency *(2023–present)*
 - **Co-Founder** — Izocele *(2018–present)*
-- **Software Engineer** — Baryon LK *(2022–2023)*
+- **Frontend Engineer & Scrum Master** — Baryon SE, Sweden *(2022–2023)*
 
 ---
 
 ### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/gehanpasindhu/)
 
-Let's connect and build something great together!
+- 🌐 [Portfolio](https://gehanpasindhu.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gehanpasindhu/)
+- 📈 [Kaggle](https://www.kaggle.com/gpasindhu)
+- ✉️ [pasindhu97@gmail.com](mailto:pasindhu97@gmail.com)
+
+Open to on-site, hybrid and remote opportunities — let's build something great together!
