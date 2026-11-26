@@ -2,6 +2,8 @@
 
 ## Senior Software Engineer & Tech Lead | Full-Stack Developer | Data Scientist
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/GehanPasindhu)
+
 Senior Software Engineer & Tech Lead at **[Eventistry](https://eventistry.agency)** (digital innovation division: 87.agency), and Co-Founder of **Izocele**. Based in Sri Lanka 🇱🇰
 
 I build full-stack web and mobile products — event-driven platforms, live sports broadcast tooling, analytics dashboards and branded client apps — and I lead Agile delivery and mentor junior developers along the way.
